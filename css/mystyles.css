@@ -1,6 +1,17 @@
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:antiquewhite;
+    color:black; /*font color*/
+    
+
+}
+
+    /*text-align: center should make it centered*/
+
 
 /* if updates don't work...
 1. Make sure you linked styles to page
